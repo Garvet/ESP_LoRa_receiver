@@ -12,10 +12,10 @@
 #define DS18B20
 #define DHT_sensor
 // #define HW_666
-// #define BMP280_I2C
-// #define CJMCU_811
-// #define HTU21D
-// #define TSL2561
+#define BMP280_I2C
+#define CJMCU_811
+#define HTU21D
+#define TSL2561
 
 // Настройки подключения датчиков
 #define PIN_DS18B20 GPIO_NUM_4
